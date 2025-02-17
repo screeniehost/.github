@@ -1,12 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="logo.png" />
+</p>
 
-<!--
+## hello there 👋
 
-**Here are some ideas to get you started:**
+welcome to screenie, a organization for a screenshot sharing/uploading service, which is completely open-source
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+feel free to check all our repositories down below the readme
+
+## contributing
+
+we welcome contributions from everyone. here are some ways you can help:
+
+- report bugs and request features by opening issues.
+- fork the repository and submit pull requests for bug fixes and new features.
+- improve documentation and examples.
+
+please be respectful and considerate in your interactions with others.
