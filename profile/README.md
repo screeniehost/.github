@@ -4,7 +4,7 @@
 
 ## hello there 👋
 
-welcome to screenie, a organization for a screenshot sharing/uploading service, which is completely open-source
+welcome to screenie, an organization for a screenshot sharing/uploading tool, which is completely free and open-source
 
 feel free to check all our repositories down below the readme
 
