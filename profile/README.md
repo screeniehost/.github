@@ -15,3 +15,5 @@ we welcome contributions from everyone.
 for information, please refer to our [contributing guide](https://docs.screenie.host/resources/contribute)
 
 please be respectful and considerate in your interactions with others.
+
+thanks for using screenie!
